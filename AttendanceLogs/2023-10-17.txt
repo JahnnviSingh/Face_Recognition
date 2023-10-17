@@ -1,0 +1,12 @@
+Attendance Log for 2023-10-17:
+ID: 321654, Name: Murtaza Hassan, Time: 16:27:16
+ID: 321654, Name: Murtaza Hassan, Time: 16:27:19
+ID: 321654, Name: Murtaza Hassan, Time: 16:27:20
+ID: 321654, Name: Murtaza Hassan, Time: 16:27:21
+ID: 321654, Name: Murtaza Hassan, Time: 16:27:23
+ID: 321654, Name: Murtaza Hassan, Time: 17:13:02
+ID: 321654, Name: Murtaza Hassan, Time: 17:13:11
+ID: 321654, Name: Murtaza Hassan, Time: 17:13:12
+ID: 321654, Name: Murtaza Hassan, Time: 17:13:14
+ID: 321654, Name: Murtaza Hassan, Time: 17:13:15
+ID: 321654, Name: Murtaza Hassan, Time: 17:13:17
